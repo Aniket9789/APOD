@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    margin-right: 27rem;
+}
+.btn{
+    text-align: center;
+    margin-left: 46rem;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    border-bottom: none;
+    margin-top: 3rem;
+}
+.btn:hover{
+    color: white;
+    cursor: pointer;
+    background-color: #ff9500;
+}
+.heading1{
+    margin-left: 34rem;
+    margin-top: 3rem;
+}
+.heading2{
+    margin-left: 44rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.img{
+    width: 25rem;
+    height: 25rem;
+    margin-left: 37rem;
+    border-radius: 12px;
+}
+.pera{
+    width: 25rem;
+    height: 25rem;
+    margin-left: 37rem;
+    border-radius: 12px;
+    line-height: 2rem;
+}
